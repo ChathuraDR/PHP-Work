@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>PHP fundamentals : Retrieving data From a database and add them into drop down list</title>
+    <title>PHP fundamentals : GET method</title>
     <style type="text/css">
         /* ID Selector */
         #test {
